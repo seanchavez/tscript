@@ -10,6 +10,8 @@
   "author": "Sean Chavez",
   "license": "ISC",
   "devDependencies": {
+    "@types/react": "^16.8.7",
+    "@types/react-dom": "^16.8.2",
     "typescript": "^3.3.3333"
   },
   "dependencies": {
